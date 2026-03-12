@@ -1,0 +1,35 @@
+commit a0b9dfc619414287bcfdc342a91558321d125fd6
+Author: Mayra Liliana <2024072841@upb.edu.mx>
+Date:   Thu Mar 12 11:20:39 2026 -0500
+
+    cambios guardados
+
+commit e3bbae4cffc48ea7ba1dcadfb3b4f386c4822d45
+Author: Mayra Liliana <2024072841@upb.edu.mx>
+Date:   Thu Mar 12 11:16:08 2026 -0500
+
+    cambios guardados
+
+commit aeab9fe8a9d1b06e33d9618eb77b0b611098f08e
+Author: Mayra Liliana <2024072841@upb.edu.mx>
+Date:   Thu Mar 12 11:08:27 2026 -0500
+
+    cambios
+
+commit 50d6216dfab2093aa36d2291869d819fed4d068c
+Author: Mayra Liliana <2024072841@upb.edu.mx>
+Date:   Mon Mar 9 11:50:47 2026 -0500
+
+    Descripción de los cambios
+
+commit bf6f3341b4837d1c715c0c743e4442eb5c15265c
+Author: Mayra Liliana <2024072841@upb.edu.mx>
+Date:   Mon Mar 2 12:14:11 2026 -0500
+
+    Solución de conexión a DB
+
+commit fdeb135bd749d2e04446b43dac429c213dc25878
+Author: Mayra Liliana <2024072841@upb.edu.mx>
+Date:   Mon Feb 9 13:07:56 2026 -0500
+
+    first commit
