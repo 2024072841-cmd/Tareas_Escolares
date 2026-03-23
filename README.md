@@ -1,13 +1,13 @@
-# 🎓 Proyecto: MyStudy - Gestión Escolar Premium
+# 𓍝 Proyecto: Studily - Gestión Escolar
 
-Este es un proyecto académico integral desarrollado para la gestión inteligente de tareas, materias y periodos escolares. Utiliza una arquitectura moderna de **API RESTful** en el backend y una interfaz de usuario inspirada en el **iOS Design System** en el frontend.
+Este es un proyecto académico integral desarrollado para la gestión inteligente de tareas, materias y periodos escolares. Utiliza una arquitectura moderna de **API RESTful** en el backend y una interfaz de usuario inspirada en el **iOS Design** en el frontend.
 
-## 🚀 Descripción
+## Descripción
 El objetivo de este proyecto es ofrecer una herramienta visualmente atractiva y funcional que permita realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) sobre una base de datos PostgreSQL, facilitando el control académico con una experiencia de usuario de alta gama.
 
 ---
 
-## 💻 Frontend (Interfaz de Usuario)
+## Frontend (Interfaz de Usuario)
 El frontend ha sido diseñado bajo los principios de **minimalismo y claridad de Apple**, enfocándose en la usabilidad "Edge-to-Edge", tipografías pesadas y feedback táctil.
 
 | Herramienta / Librería | Versión | Descripción |
@@ -18,7 +18,7 @@ El frontend ha sido diseñado bajo los principios de **minimalismo y claridad de
 | **Axios** | v1.7 | Cliente HTTP para consumo de la API |
 | **React Calendar** | v5.1 | Agenda interactiva para visualización de tareas |
 
-### ✨ Características Principales
+### Características Principales
 * **Dashboard Inteligente:** Saludo dinámico según la hora (`Buenos días`, `Buenas noches`) con nombre de usuario.
 * **Filtros de Estatus:** Clasificación interactiva de tareas (Pendientes, Listas, Vencidas) con actualización en tiempo real.
 * **Diseño Responsivo:** Sidebar flotante con efecto de cristal (`Backdrop-blur`) adaptado a móviles.
@@ -26,7 +26,7 @@ El frontend ha sido diseñado bajo los principios de **minimalismo y claridad de
 
 ---
 
-## ⚙️ Backend (Servidor y API)
+## Backend (Servidor y API)
 Para replicar el servidor en un entorno de desarrollo, se requieren las siguientes herramientas:
 
 | Herramienta / Librería | Versión | Descripción |
@@ -38,7 +38,7 @@ Para replicar el servidor en un entorno de desarrollo, se requieren las siguient
 | **Git Bash** | 2.53.0 | Terminal para control de versiones |
 | **Postman** | v12.1.3 | Pruebas y validación de endpoints |
 
-### 🛠️ Endpoints de la API
+### Endpoints de la API
 Servidor local base: `http://localhost:3000/api`
 
 | Categoría | Método | Endpoint | Descripción |
@@ -54,7 +54,7 @@ Servidor local base: `http://localhost:3000/api`
 
 ---
 
-### 🏛️ Información Académica
+### ᓚᘏᗢ Información Académica
 * **Universidad:** Universidad Politécnica de Bacalar
-* **Desarrolladora:** Mayra Liliana
+* **Desarrolladora:** Mayra Liliana (˶ᵔ ᵕ ᵔ˶)
 * **Fecha de entrega:** 12 de marzo de 2026
