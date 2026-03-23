@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+@theme {
+  /* Aquí definimos tus colores lilas para la v4 */
+  --color-primary-light: #E9D5FF;
+  --color-primary: #A855F7;
+  --color-primary-dark: #7E22CE;
+  --color-neutral-bg: #F9FAFB;
+
+  /* Aquí la fuente Poppins */
+  --font-sans: "Poppins", ui-sans-serif, system-ui;
+}
+
+:root {
+  background-color: var(--color-neutral-bg);
+  font-family: var(--font-sans);
+}

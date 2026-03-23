@@ -1,0 +1,54 @@
+/* CalendarCustom.css */
+.ios-calendar-full {
+    width: 100% !important;
+    border: none !important;
+    font-family: -apple-system, sans-serif !important;
+}
+
+.react-calendar__navigation button {
+    font-weight: 800;
+    color: #5856D6; /* Morado iOS Principal */
+    font-size: 1.2rem;
+    padding: 20px 0;
+}
+
+.react-calendar__month-view__weekdays__weekday {
+    text-transform: uppercase;
+    font-size: 0.7rem;
+    font-weight: 900;
+    color: #C7C7CC;
+    text-decoration: none !important;
+}
+
+.react-calendar__tile {
+    padding: 2.5em 0.5em !important;
+    font-weight: 700;
+    color: #1C1C1E;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.react-calendar__tile--active {
+    background: #5856D6 !important;
+    border-radius: 20px !important;
+    color: white !important;
+}
+
+.react-calendar__tile--now {
+    background: #F2F2F7 !important;
+    border-radius: 20px;
+}
+
+/* El punto de color dinámico debajo del número */
+.dot-status {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    margin-top: 4px;
+}
+
+.has-task-ios {
+    font-weight: 900 !important;
+}
